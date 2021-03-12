@@ -8,7 +8,7 @@
   "server_maintainance": 0,
   "default_app": 0,
   "android_default_app": 0,
-  "android": "myballlone",
+  "android": "android",
   "ios": "ios",
   "created_at": "2020-03-26T18:19:20.000000Z",
   "updated_at": "2021-03-08T09:29:37.000000Z"
