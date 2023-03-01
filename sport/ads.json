@@ -2,6 +2,16 @@
   "status": true,
   "message": "Success",
   "data": [
+    {
+      "id": 21,
+      "icon": "https://cdn-icons-png.flaticon.com/512/124/124016.png",
+      "name": "viber group",
+      "link": "https://invite.viber.com/?g2=AQAa%2FIvmsIWUwFCmqfEp6CKnk%2BNOXs2QrVl%2Bx%2Fha2to5HVMxWfYRKW%2BhEXwdO19y",
+      "status": 1,
+      "description": "viber channel ဝင်ထားနိုင်ပါသည်",
+      "created_at": "2021-02-24T18:08:13.000000Z",
+      "updated_at": "2021-02-24T18:08:13.000000Z"
+    },
     
     {
       "id": 12,
