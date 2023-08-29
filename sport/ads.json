@@ -12,84 +12,8 @@
       "description": "ပရိုမိုကုဒ် KS1xBetကို အသုံးပြပြီး ပထမဆုံး ငွေသွင်းပြီး ၁၀၀ရာခိုင်နှုန်း ဘောနပ်စ်အား ရယူလိုက်ပါ",
       "created_at": "2021-02-24T18:08:13.000000Z",
       "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-
-   {
-      "id": 21,
-      "icon": "https://cdn-icons-png.flaticon.com/512/124/124016.png",
-      "name": "viber group",
-      "link": "https://invite.viber.com/?g2=AQAa%2FIvmsIWUwFCmqfEp6CKnk%2BNOXs2QrVl%2Bx%2Fha2to5HVMxWfYRKW%2BhEXwdO19y",
-      "status": 0,
-      "description": "viber channel ဝင်ထားနိုင်ပါသည်",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-    
-    {
-      "id": 12,
-      "icon": "https://www.freepnglogos.com/uploads/gift-png/gift-present-prize-icon-24.png",
-      "name": "ဆုငွေ ၅ သိန်းကံစမ်းရန်",
-      "link": "https://m.facebook.com/groups/901062251239495/?ref=share&mibextid=S66gvF",
-      "status": 0,
-      "description": "fb group ဝင်ထားပြီး ဆုငွေ ၅ သိန်းကံစမ်းနိုင်ပြီ",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-
-  {
-      "id": 13,
-      "icon": "http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png",
-      "name": "King Sports YouTube",
-      "link": "https://youtube.com/channel/UCjdRdetZV-99e6OqZHIs4vw",
-      "status": 0,
-      "description": "King Sport YouTube Channel အား Subscribe လုပ်ပြီး သတင်းများ နားဆင်နိုင်ပါပြီ",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-  
-
-  
- {
-      "id": 11,
-      "icon": "https://geeky.com.ng/wp-content/uploads/2020/08/Telegram-logo.png",
-      "name": "Join King Sport App Info",
-      "link": "https://t.me/kingsportx",
-      "status": 0,
-      "description": "Please join the telegram group for info of Application!",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-    
-    {
-      "id": 9,
-      "icon": "https://play-lh.googleusercontent.com/Jy0R0EGxssA3dmeMIiF4lP98fSzuzkmuJvQw-QqNm8Xz9xw_8rz2e4thtU5Bg8aq6Q=s360",
-      "name": "KING SPORT APP",
-      "link": "https://apps.apple.com/us/app/king-sport/id1547815530",
-      "status": 0,
-      "description": "IOS \u00a0\u1019\u103b\u102c\u1038\u1021\u1010\u103d\u1000\u103a KING SPORT APP \u1010\u102d\u102f\u1000\u103a\u101b\u102d\u102f\u1000\u103a\u1000\u103c\u100a\u103a\u1037\u1014\u102d\u102f\u1004\u103a\u1015\u102b\u101e\u100a\u103a",
-      "created_at": "2021-01-08T17:35:58.000000Z",
-      "updated_at": "2021-01-08T17:35:58.000000Z"
-    },
-    {
-      "id": 8,
-      "icon": "https://play-lh.googleusercontent.com/A-MrVM2P_5qY-FPDvjEpNevUp2uT_S8yyJDFChsX8joWc6rfp0tzD5y7Uuznxos_e_M=s360",
-      "name": "King Sport App",
-      "link": "https://play.google.com/store/apps/details?id=com.mysporttv.live.myballlone",
-      "status": 0,
-      "description": "King Sport App \u1000\u102d\u102f download \u1014\u102d\u102f\u1004\u103a\u1015\u102b\u1015\u103c\u102e\u1001\u1004\u103a\u1017\u103b\u102c",
-      "created_at": "2020-09-25T02:45:43.000000Z",
-      "updated_at": "2020-12-30T16:54:53.000000Z"
-    },
-   
-    {
-      "id": 4,
-      "icon": "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-circle-512.png",
-      "name": "New FB Page Like Plz",
-      "link": "https://www.facebook.com/kingsports.xyz",
-      "status": 0,
-      "description": "Football Live Myanmar Facebook Page \u1021\u102c\u1038 \u1000\u103b\u1031\u1038\u1007\u1030\u1038\u1015\u103c\u102f\u1015\u103c\u102e\u1038 Like and Follow \u1011\u102c\u1038\u1015\u102b",
-      "created_at": "2020-10-08T18:32:59.000000Z",
-      "updated_at": "2020-12-30T16:56:35.000000Z"
     }
+
+  
   ]
 }
