@@ -11,40 +11,8 @@
       "description": "ပရိုမိုကုဒ် KS1xBetကို အသုံးပြပြီး ပထမဆုံး ငွေသွင်းပြီး ၁၀၀ရာခိုင်နှုန်း ဘောနပ်စ်အား ရယူလိုက်ပါ",
       "created_at": "2021-02-24T18:08:13.000000Z",
       "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-    
-   
-    {
-      "id": 51,
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
-      "name": "Telegram",
-      "link": "https://t.me/kingsportsapp",
-      "status": 1,
-      "description": "King Sport Telegram Channel အားဝင်ရောက်နိုင်ပါသည်။",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-
-        {
-      "id": 51,
-      "icon": "https://i.ibb.co/tq0m1ts/1200px-Facebook-Logo-2023.png",
-      "name": "Facebook",
-      "link": "https://www.facebook.com/kingsports.xyz",
-      "status": 1,
-      "description": "King Sport Facebook Page မှတဆင့်ဆက်သွယ်နိုင်ပါသည်။",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
-    },
-       {
-      "id": 51,
-      "icon": "https://i.ibb.co/Xk5FPBF/2215022.png",
-      "name": "ကြော်ငြာထည့်ရန်",
-      "link": "https://www.facebook.com/kingsports.xyz",
-      "status": 1,
-      "description": "ကုမ္ပဏီ ကြော်ငြာများထည့်သွင်းရန် fb မှတဆင့် ဆက်သွယ်နိုင်ပါသည်။",
-      "created_at": "2021-02-24T18:08:13.000000Z",
-      "updated_at": "2021-02-24T18:08:13.000000Z"
     }
+   
 
     
 
